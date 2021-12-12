@@ -24,7 +24,9 @@ Then run it using
 
 ## Example
 
-`$ ./tedlasso-cli -c roy-kent
+```
+$ ./tedlasso-cli -c roy-kent
 
 Enjoy your trophies for winning nothing.”
-— Roy Kent`
+— Roy Kent
+```
